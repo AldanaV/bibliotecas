@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1557152734 source:d:\parcial1-a.s\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+
