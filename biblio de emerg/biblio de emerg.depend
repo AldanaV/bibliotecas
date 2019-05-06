@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1557112490 source:c:\users\aldana\desktop\biblio de emerg\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	<string.h>
+
