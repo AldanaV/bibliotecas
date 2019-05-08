@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1525871588 source:c:\users\gabriela\desktop\aragongabriela_1a\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"producto.h"
+	"informes.h"
+
+1525877598 c:\users\gabriela\desktop\aragongabriela_1a\producto.h
+
+1525871589 c:\users\gabriela\desktop\aragongabriela_1a\informes.h
+
+1525876436 source:c:\users\gabriela\desktop\aragongabriela_1a\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"producto.h"
+	"informes.h"
+	"input.h"
+
+1525876437 source:c:\users\gabriela\desktop\aragongabriela_1a\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"producto.h"
+	"informes.h"
+	"input.h"
+
+1525876437 c:\users\gabriela\desktop\aragongabriela_1a\input.h
+
+1525876436 source:c:\users\gabriela\desktop\aragongabriela_1a\producto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"producto.h"
+	"informes.h"
+	"input.h"
+
