@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1557286980 source:c:\users\aldana\desktop\parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+
+1557288912 source:c:\users\aldana\desktop\parcial\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1557288912 c:\users\aldana\desktop\parcial\funciones.h
+
